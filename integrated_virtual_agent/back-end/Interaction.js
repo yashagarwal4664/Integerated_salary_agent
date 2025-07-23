@@ -4,7 +4,7 @@ const fetch = require("node-fetch"); // Re-add node-fetch import
 
 require("dotenv").config({ path: path.resolve(__dirname, "../.env") }); // Adjust path to root
 const fs = require("fs");
-const ffmpeg = require("fluent-ffmpeg"); // Import ffmpeg for audio processing
+const ffmpegPath = 'ffmpeg'; // Import ffmpeg for audio processing
 const ffmpegPath = require("ffmpeg-static"); // Path to the static binary
 ffmpeg.setFfmpegPath(ffmpegPath); // Set the path explicitly
 
