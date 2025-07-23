@@ -1,0 +1,118 @@
+2025-07-21 12:32:00  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.108:5000
+2025-07-21 12:32:00  [33mPress CTRL+C to quit[0m
+2025-07-22 00:31:02  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.108:5000
+2025-07-22 00:31:02  [33mPress CTRL+C to quit[0m
+2025-07-22 00:32:12  New negotiation session created: nDGzNeiWdJF0qBr60GoOOwmP1LoafOh2
+2025-07-22 00:32:17  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 00:32:17  127.0.0.1 - - [22/Jul/2025 00:32:17] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 00:32:32  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 00:32:32  127.0.0.1 - - [22/Jul/2025 00:32:32] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 00:33:05  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 00:33:05  127.0.0.1 - - [22/Jul/2025 00:33:05] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 00:35:05  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 00:35:05  127.0.0.1 - - [22/Jul/2025 00:35:05] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 00:35:06  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 00:35:06  127.0.0.1 - - [22/Jul/2025 00:35:06] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 00:35:10  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 00:35:10  127.0.0.1 - - [22/Jul/2025 00:35:10] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 00:36:04  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 00:36:04  127.0.0.1 - - [22/Jul/2025 00:36:04] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 00:36:49  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 00:36:49  127.0.0.1 - - [22/Jul/2025 00:36:49] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 00:37:29  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 00:37:29  127.0.0.1 - - [22/Jul/2025 00:37:29] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 01:06:25  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.108:5000
+2025-07-22 01:06:25  [33mPress CTRL+C to quit[0m
+2025-07-22 01:06:59  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.108:5000
+2025-07-22 01:06:59  [33mPress CTRL+C to quit[0m
+2025-07-22 01:07:55  New negotiation session created: RDrMK9Tinplkpp1ITN2caXsk3uIbgZgU
+2025-07-22 01:07:59  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 01:08:00  127.0.0.1 - - [22/Jul/2025 01:08:00] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 01:08:33  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 01:08:33  127.0.0.1 - - [22/Jul/2025 01:08:33] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 01:09:17  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 01:09:17  127.0.0.1 - - [22/Jul/2025 01:09:17] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 01:09:54  127.0.0.1 - - [22/Jul/2025 01:09:54] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 22:31:15  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.108:5000
+2025-07-22 22:31:15  [33mPress CTRL+C to quit[0m
+2025-07-22 23:07:13  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.108:5000
+2025-07-22 23:07:13  [33mPress CTRL+C to quit[0m
+2025-07-22 23:09:44  New negotiation session created: GUkJ8wCa-ArWx6SvGreX0NUfAsWrb6RL
+2025-07-22 23:09:48  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 23:09:48  127.0.0.1 - - [22/Jul/2025 23:09:48] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 23:10:28  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 23:10:28  127.0.0.1 - - [22/Jul/2025 23:10:28] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 23:18:21  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.108:5000
+2025-07-22 23:18:21  [33mPress CTRL+C to quit[0m
+2025-07-22 23:19:38  New negotiation session created: RkN61tAfvFrKJzGjOZeKH_HKLYKg0RwY
+2025-07-22 23:19:42  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 23:19:42  127.0.0.1 - - [22/Jul/2025 23:19:42] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 14:09:35  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.89:5000
+2025-07-22 14:09:35  [33mPress CTRL+C to quit[0m
+2025-07-22 14:09:58  New negotiation session created: WbcVXe2r08L-8DzQl6ZWMvgY--NmtF40
+2025-07-22 14:10:00  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 14:10:00  127.0.0.1 - - [22/Jul/2025 14:10:00] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 14:11:29  New negotiation session created: 1L4Llz46BCegfkK2AmrqPOi00pwYh8EF
+2025-07-22 14:11:32  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 14:11:32  127.0.0.1 - - [22/Jul/2025 14:11:32] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 14:19:25  New negotiation session created: dHiMyfEONapHxHR5kJrCN515Ij9CcPB5
+2025-07-22 14:19:27  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 14:19:27  127.0.0.1 - - [22/Jul/2025 14:19:27] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 14:20:17  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 14:20:17  127.0.0.1 - - [22/Jul/2025 14:20:17] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 15:34:21  New negotiation session created: yLt-r52PDGofvqpxoa0wvPHlLozHhBZx
+2025-07-22 15:34:24  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 15:34:24  127.0.0.1 - - [22/Jul/2025 15:34:24] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 15:35:00  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 15:35:00  127.0.0.1 - - [22/Jul/2025 15:35:00] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 15:35:39  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 15:35:39  127.0.0.1 - - [22/Jul/2025 15:35:39] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 15:41:04  New negotiation session created: po6R5_82Dwfu_zHL2OIGLBRxgQArHYdQ
+2025-07-22 15:41:07  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 15:41:07  127.0.0.1 - - [22/Jul/2025 15:41:07] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 15:42:19  New negotiation session created: dMKWkPQeOIaE97YSn4rgd8FZ_qMmqYo7
+2025-07-22 15:42:21  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 15:42:21  127.0.0.1 - - [22/Jul/2025 15:42:21] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 15:48:38  New negotiation session created: 5pddF0BWD_3jKgZ7rVHtIrfN7HUop1-q
+2025-07-22 15:48:41  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 15:48:41  127.0.0.1 - - [22/Jul/2025 15:48:41] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 15:56:50  New negotiation session created: NMSCDF7OBJyuW-G98ugpShnNZQjkA3RI
+2025-07-22 15:56:53  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 15:56:53  127.0.0.1 - - [22/Jul/2025 15:56:53] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 15:57:39  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 15:57:39  127.0.0.1 - - [22/Jul/2025 15:57:39] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 16:13:44  New negotiation session created: ZPpZUd6XZZWAxnu1NaiU7uqLVmAEkfGS
+2025-07-22 16:13:47  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 16:13:47  127.0.0.1 - - [22/Jul/2025 16:13:47] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 16:14:26  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 16:14:26  127.0.0.1 - - [22/Jul/2025 16:14:26] "POST /negotiate HTTP/1.1" 200 -
+2025-07-22 16:19:27  New negotiation session created: IS18RUmHRyHoLC1Nnw-bR22CjLwwxq2x
+2025-07-22 16:19:31  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 16:19:31  127.0.0.1 - - [22/Jul/2025 16:19:31] "POST /negotiate HTTP/1.1" 200 -
+2025-07-23 00:18:35  New negotiation session created: gIlgdl5RF1Djk30G9m2E6EMeyYg0Ol3A
+2025-07-23 00:18:37  HTTP Request: POST https://api.ai.it.ufl.edu/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 00:18:37  127.0.0.1 - - [23/Jul/2025 00:18:37] "POST /negotiate HTTP/1.1" 200 -
