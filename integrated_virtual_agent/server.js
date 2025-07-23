@@ -26,32 +26,32 @@ app.use(session({
     }
 }));
 
-// <--- Routes --->
-app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'front-end', 'interaction.html'));
+// <!-- Routes -->
+app.use('/Interaction', InteractionRouter);
+app.use('/Generate', GenerateRouter);
+
+// Error handling middleware
+app.use((err, req, res, next) => {
+    console.error(err.stack);
+    res.status(500).send('Something broke!');
 });
 
-app.use('/Interaction', (req, res, next) => {
-    next();
-}, InteractionRouter);
-
-app.use('/Generate', (req, res, next) => {
-    next();
-}, GenerateRouter);
-
-
-
-process.on('uncaughtException', (err) => {
-    console.error('Uncaught Exception:', err);
-    // Decide whether to keep the process alive or shut it down
+// Start the server
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+    console.log(Server running on port ${PORT});
 });
 
-process.on('unhandledRejection', (reason, promise) => {
-    console.error('Unhandled Rejection at:', promise, 'reason:', reason);
-    // Optionally handle cleanup or decide to shut down gracefully
-});
+// FFmpeg path setting (add this block)
+const ffmpeg = require('fluent-ffmpeg');
+ffmpeg.setFfmpegPath('/usr/bin/ffmpeg');
 
-
-app.listen(process.env.PORT || 3000, () => {
-    console.log(`Server is running on http://localhost:${process.env.PORT || 3000}`);
+// FFmpeg location verification (add this block for testing)
+const { exec } = require('child_process');
+exec('which ffmpeg', (err, stdout) => {
+  if (err) {
+    console.error(exec error: ${err});
+    return;
+  }
+  console.log('FFmpeg location:', stdout);
 });
