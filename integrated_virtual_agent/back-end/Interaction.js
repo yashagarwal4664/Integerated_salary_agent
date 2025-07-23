@@ -4,9 +4,10 @@ const fetch = require("node-fetch"); // Re-add node-fetch import
 
 require("dotenv").config({ path: path.resolve(__dirname, "../.env") }); // Adjust path to root
 const fs = require("fs");
-const ffmpegPath = 'ffmpeg'; // Import ffmpeg for audio processing
-const ffmpegPath = require("ffmpeg-static"); // Path to the static binary
-ffmpeg.setFfmpegPath(ffmpegPath); // Set the path explicitly
+const ffmpeg = require("fluent-ffmpeg");
+// Import ffmpeg for audio processing
+//const ffmpegPath = require("ffmpeg-static"); // Path to the static binary
+//ffmpeg.setFfmpegPath(ffmpegPath); // Set the path explicitly
 
 // If you want to use OpenAI for audio generation only
 const OpenAI = require("openai");
