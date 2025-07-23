@@ -9,8 +9,8 @@ const openai = new OpenAI(api_key = process.env.OPENAI_API_KEY);
 // Used to Speed Up Audio (if needed)
 const fs = require('fs');
 const ffmpeg = require('fluent-ffmpeg'); // Import ffmpeg for audio processing
-const ffmpegPath = require('ffmpeg-static'); // Path to the static binary
-ffmpeg.setFfmpegPath(ffmpegPath); // Set the path explicitly
+//const ffmpegPath = require('ffmpeg-static'); // Path to the static binary
+//ffmpeg.setFfmpegPath(ffmpegPath); // Set the path explicitly
 
 const router = express.Router()
 router.use(express.static(path.join(__dirname, 'public')));
